@@ -1,6 +1,6 @@
 test
 プレーン
 食パン
-マイブランチをコミット
+commit for mybranch
 
 mybranch made
