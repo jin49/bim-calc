@@ -1,11 +1,6 @@
 test
 プレーン
 食パン
-<<<<<<< HEAD
-メインのブランチの変更
-=======
-マイブランチをコミット
->>>>>>> mybranch
+commit for mybranch
 
-
-testtest
+mybranch made
