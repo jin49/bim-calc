@@ -2,3 +2,5 @@ test
 プレーン
 食パン
 マイブランチをコミット
+
+mybranch made
